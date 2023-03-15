@@ -5,7 +5,6 @@ layout = 'post'
 categories = ['EVANGELIUM']
 tags = ['EVANGELIUM']
 date = '2023-03-02 09:00:04 +0100'
-linkedsummaryImage = 'evangelist_matthaeus.jpg'
 draft = 'false'
 +++
 In jener Zeit sprach Jesus zu seinen Jüngern: Bittet, dann wird euch gegeben; sucht, dann werdet ihr finden; klopft an, dann wird euch geöffnet.

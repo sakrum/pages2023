@@ -5,7 +5,6 @@ layout = 'post'
 categories = ['LECTIO 1']
 tags = ['LECTIO 1']
 keepImageRatio = 'true'
-keepImageRatio = 'true'
 date = '2023-03-13 07:30:04 +0100'
 +++
 Naaman, der Feldherr des Königs von Aram, galt viel bei seinem Herrn und war angesehen; denn durch ihn hatte der Herr den Aramäern den Sieg verliehen. Der Mann war tapfer, aber an Aussatz erkrankt.

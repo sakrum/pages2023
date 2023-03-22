@@ -20,6 +20,8 @@ disableLanguages: ["en", "ru"]
 
 # disableKinds: ["sitemap","RSS"]
 
+rssLimit: 20
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true

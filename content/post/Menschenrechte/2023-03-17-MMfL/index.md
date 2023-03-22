@@ -8,5 +8,6 @@ summaryImage: "1643105974.jpg"
 keepImageRatio: true
 tags: ["Menschenrechte", "Menschenwürde", "human rights"]
 ---
-[https://www.marschfuersleben.de/](https://www.marschfuersleben.de/)
-![Einladung zum Marsch fürs Leben in München am 25. März 2023 um 13 Uhr auf dem Königsplatz in München](MMfL_2023.jpg "Einladung zum Marsch fürs Leben in München am 25. März 2023 um 13 Uhr auf dem Königsplatz")
+
+[![Einladung zum Marsch fürs Leben in München am 25. März 2023 um 13 Uhr auf dem Königsplatz in München](MMfL_2023.jpg "Einladung zum Marsch fürs Leben in München am 25. März 2023 um 13 Uhr auf dem Königsplatz")](https://www.marschfuersleben.de/)
+

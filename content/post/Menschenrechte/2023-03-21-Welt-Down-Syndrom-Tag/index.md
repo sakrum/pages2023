@@ -16,4 +16,4 @@ Möglich ist das durch die aktuelle Rechtslage bis zum Einsetzen der Geburtswehe
 
 Dieses Unrecht muss endlich beendet werden!
 
-![Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder willkommen ist](337262011_722017769414667_3805293799428663041_n.jpg "Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder willkommen ist")
+[![Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder willkommen ist](337262011_722017769414667_3805293799428663041_n.jpg "Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder willkommen ist")](https://www.sundaysforlife.org/de)

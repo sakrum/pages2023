@@ -1,4 +1,4 @@
-baseURL: https://wwwng.github.io
+baseURL: https://sakrum.de
 languageCode: de-de
 title: sakrum.de
 theme: hugo-refresh
@@ -18,7 +18,7 @@ DefaultContentLanguage: de
 ## Option to disable additional language in your site.
 disableLanguages: ["en", "ru"]
 
-disableKinds: ["sitemap","RSS"]
+# disableKinds: ["sitemap","RSS"]
 
 # Option to specify that all links will be open in a new tab.
 blackfriday:
@@ -109,7 +109,7 @@ params:
     # option to specify the title in the homepage
     title: Markus
     # option to specify the subtitle in the homepage
-    subtitle: sakrum.de
+    subtitle: "@sakrum.de"
     # option to specify image in the homepage
     image: "/images/avatar.jpg" # worker.svg 
     # option to specify the width of the image in the homepage

@@ -2,13 +2,15 @@
 title: "Welt Down Syndrom Tag"
 date: 2023-03-21T11:54:00+01:00
 draft: false
-hideLastModified: true
+hideLastModified: false
 summary: "Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder willkommen ist"
 summaryImage: "337262011_722017769414667_3805293799428663041_n.jpg"
 keepImageRatio: true
-tags: ["Menschenrechte", "Menschenwürde"]
+tags: ["Menschenrechte", "Menschenwürde", "ableism", "Ableismus", "human rights"]
 ---
-allerdings werden in Deutschland über 95% der Menschen mit Down-Syndrom nach einer Diagnose noch im Mutterleib getötet.
+Zum Welt Down Syndrom Tag 2023 wünsche ich mir eine Welt, in der jeder ❤️ willkommen ist 👐
+
+Allerdings werden in Deutschland über 95% der Menschen mit Down-Syndrom nach einer Diagnose noch im Mutterleib getötet.
 
 Möglich ist das durch die aktuelle Rechtslage bis zum Einsetzen der Geburtswehen (§218a Satz 2 StGB).
 

@@ -122,18 +122,6 @@
                 {{ end }}
               </a>
             </li>
-            {{ end }}       
-            {{ if isset .Site.Params.footer.twitter "link" }}
-            <li>
-              <a href="https://twitter.com/{{ .Site.Params.footer.twitter.link }}" target="_blank">
-                <span class="icon"><i class="fab fa-twitter"></i></span>
-                {{ if isset .Site.Params.footer.twitter "title" }}
-                  {{ .Site.Params.footer.twitter.title }}
-                {{ else }}
-                  Twitter
-                {{ end }}
-              </a>
-            </li>
             {{ end }}
             {{ if isset .Site.Params.footer.mastodon "link" }}
             <li>
@@ -143,6 +131,18 @@
                   {{ .Site.Params.footer.mastodon.title }}
                 {{ else }}
                   Mastodon
+                {{ end }}
+              </a>
+            </li>
+            {{ end }}
+            {{ if isset .Site.Params.footer.twitter "link" }}
+            <li>
+              <a href="https://twitter.com/{{ .Site.Params.footer.twitter.link }}" target="_blank">
+                <span class="icon"><i class="fab fa-twitter"></i></span>
+                {{ if isset .Site.Params.footer.twitter "title" }}
+                  {{ .Site.Params.footer.twitter.title }}
+                {{ else }}
+                  Twitter
                 {{ end }}
               </a>
             </li>

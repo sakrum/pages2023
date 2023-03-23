@@ -125,7 +125,7 @@
             {{ end }}
             {{ if isset .Site.Params.footer.mastodon "link" }}
             <li>
-              <a href="{{ .Site.Params.footer.mastodon.link }}" target="_blank">
+              <a rel="me" href="{{ .Site.Params.footer.mastodon.link }}" target="_blank">
                 <span class="icon"><i class="fab fa-mastodon"></i></span>
                 {{ if isset .Site.Params.footer.mastodon "title" }}
                   {{ .Site.Params.footer.mastodon.title }}

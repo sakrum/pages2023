@@ -6,6 +6,39 @@ hideLastModified: true
 showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
+{{< table >}}
+{{< tablerow >}}
+{{< tabledata >}}
+{{< newLine >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="mastodon" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://muenchen.social/@markus" >}}Mastodon{{< /link >}}{{< newLine >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< auskommentieren >}}
+{{< /auskommentieren >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="twitter" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://twitter.com/sakrumverum" >}}Twitter{{< /link >}}{{< newLine >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< newLine >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="telegram" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://t.me/sakrumverum" >}}Telegram{{< /link >}}{{< newLine >}}
+{{< /tabledata >}}
+{{< /tablerow >}}
+{{< tablerow >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< /tablerow >}}
+{{< tablerow >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< tabledata >}}
+{{< /tabledata >}}
+{{< /tablerow >}}
+{{< /table>}}
 {{< newLine >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="mastodon" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://muenchen.social/@markus" >}}Mastodon{{< /link >}}{{< newLine >}}
 {{< auskommentieren >}}

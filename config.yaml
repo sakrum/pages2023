@@ -28,6 +28,7 @@ blackfriday:
 
 Taxonomies:
   tag: "tags"
+  series: series
 
 # Supported fonts are:
 # https://fonts.google.com/
@@ -44,6 +45,13 @@ params:
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration
   favicon: "/images/favicon.svg"
+  
+  # Hugo’s Open Graph template is configured using a mix of configuration variables and front-matter on individual pages.
+  description: web site of sakrum offering post of gospel, human right and humanity as well as tech stuff. in case you want to get in contact some means of communication are offered
+  images:
+  - "/images/defaultsummary.jpg"
+  - "/images/avatar.jpg"
+  title: sakrum.de
 
   # parameter used to specify if you want to minify the imported js
   jsMinify: false

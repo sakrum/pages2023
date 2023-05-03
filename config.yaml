@@ -54,6 +54,8 @@ params:
   images:
   - defaultsummary.jpg
   - avatar.jpg
+  - Temple_of_Mars_Ultor_panorama.jpg
+  - sakrum.jpg
   title: sakrum.de
 
   # parameter used to specify if you want to minify the imported js

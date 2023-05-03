@@ -2,9 +2,11 @@
 author = 'Gott'
 title = 'Aus dem Heiligen Evangelium nach Johannes - Joh 14,6-14'
 layout = 'post'
+description = 'In jener Zeit sprach Jesus zu seinen Jüngern: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater außer durch mich. Wenn ihr mich erkannt habt, werdet ihr auch meinen Vater erkennen. Schon jetzt kennt ihr ihn und habt ihn gesehen. Philippus sagte zu ihm: Herr,....'
+images = ['/symbols/evangelist_johannes.jpg']
 categories = ['EVANGELIUM']
 tags = ['EVANGELIUM']
-date = '2023-05-03 08:00:05 +0100'
+date = '2023-05-03 08:59:59 +0100'
 summary = 'In jener Zeit sprach Jesus zu seinen Jüngern: Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater außer durch mich. Wenn ihr mich erkannt habt, werdet ihr auch meinen Vater erkennen. Schon jetzt kennt ihr ihn und habt ihn gesehen. Philippus sagte zu ihm: Herr,....'
 linkedsummaryImage = 'evangelist_johannes.jpg'
 keepImageRatio = 'true'

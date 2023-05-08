@@ -1,9 +1,4 @@
 {
-  "subject": "acct:markus@sakrum.de",
-  "aliases": [
-    "https://muenchen.social/@markus",
-    "https://muenchen.social/users/markus"
-  ],
   "links": [
     {
       "rel": "http://webfinger.net/rel/profile-page",
@@ -13,7 +8,7 @@
     {
       "rel": "http://webfinger.net/rel/avatar",
       "type": "image/jpeg",
-      "href": "http://sakrum.de/imgs/avatar.jpg"
+      "href": "http://sakrum.de/images/avatar.jpg"
     }
   ]
 }

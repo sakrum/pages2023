@@ -1,14 +1,28 @@
 {
-  "links": [
-    {
-      "rel": "http://webfinger.net/rel/profile-page",
-      "type": "text/html",
-      "href": "https://sakrum.de"
-    },
-    {
-      "rel": "http://webfinger.net/rel/avatar",
-      "type": "image/jpeg",
-      "href": "http://sakrum.de/images/avatar.jpg"
-    }
-  ]
+	"subject":"acct:markus@muenchen.social",
+	"aliases":[
+		"https://muenchen.social/@markus",
+		"https://muenchen.social/users/markus"
+		],
+	"links":[
+		{
+			"rel":"http://webfinger.net/rel/profile-page",
+			"type":"text/html",
+			"href":"https://muenchen.social/@markus"
+		},
+		{
+			"rel":"self",
+			"type":"application/activity+json",
+			"href":"https://muenchen.social/users/markus"
+		},
+		{
+			"rel":"http://ostatus.org/schema/1.0/subscribe",
+			"template":"https://muenchen.social/authorize_interaction?uri={uri}"
+		},
+    		{
+			"rel": "http://webfinger.net/rel/avatar",
+			"type": "image/jpeg",
+			"href": "http://sakrum.de/images/avatar.jpg"
+    		}
+	]
 }

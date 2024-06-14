@@ -14,8 +14,8 @@ showInMenu: true
 {{< newLine >}}
 {{< /tabledata >}}
 {{< tabledata >}}
-{{< auskommentieren >}}
-{{< /auskommentieren >}}
+{{< newLine >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="twitter" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://twitter.com/sakrumverum" >}}Twitter{{< /link >}}{{< newLine >}}
 {{< /tabledata >}}
 {{< tabledata >}}
 {{< /tabledata >}}
@@ -23,7 +23,8 @@ showInMenu: true
 {{< tablerow >}}
 {{< tabledata >}}
 {{< newLine >}}
-{{< textsize size="+3" >}}{{< svgicon symbol="twitter" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://twitter.com/sakrumverum" >}}Twitter{{< /link >}}{{< newLine >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="blogger" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://blogger.sakrum.de" >}}Blogger{{< /link >}}
+{{< newLine >}}
 {{< /tabledata >}}
 {{< tabledata >}}
 {{< newLine >}}
@@ -47,13 +48,14 @@ showInMenu: true
 {{< /tablerow >}}
 {{< tablerow >}}
 {{< tabledata >}}
-{{< newLine >}}
-{{< textsize size="+3" >}}{{< svgicon symbol="blogger" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://blogger.sakrum.de" >}}Blogger{{< /link >}}
-{{< newLine >}}
+{{< auskommentieren >}}
+{{< /auskommentieren >}}
 {{< /tabledata >}}
 {{< tabledata >}}
+{{< auskommentieren >}}
 {{< newLine >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="tumblr" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://tumblr.sakrum.de" >}}Tumblr{{< /link >}}{{< newLine >}}
+{{< /auskommentieren >}}
 {{< /tabledata >}}
 {{< tabledata >}}
 {{< /tabledata >}}

@@ -1,5 +1,5 @@
 ---
-title: "Zur Person mit Menschenrechten wirst du nämlich erst, wenn du den Geburtskanal durchläufst." Is doch klar?!"
+title: "Zur Person mit Menschenrechten wirst du nämlich erst, wenn du den Geburtskanal durchläufst. Is doch klar?!"
 categories: ["Menschenrechte", "Menschenwürde", "human rights"]
 tags: ["Menschenrechte", "Menschenwürde", "human rights"]
 date: 2024-10-05 18:27:32 +0100

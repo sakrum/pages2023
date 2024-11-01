@@ -12,4 +12,4 @@ hideLastModified: false
 
 {{< video src="/videos/distribution/2024-11-01_18.38.36.mp4" type="video/mp4" preload="auto" >}}
 
-Die „Katholische junge Gemeinde“ forderte die Unterlassung der Teilnahme von #Bischöfen an Märschen für das Leben. #mfdl 
+Die "Katholische junge Gemeinde" forderte die Unterlassung der Teilnahme von #Bischöfen an Märschen für das Leben. #mfdl 

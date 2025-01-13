@@ -1,5 +1,5 @@
 ---
-title: "Diese Bilder, die vom abtreibungsbefürwortenden "YA Network stammen, behaupten fälschlicherweise, so sehe eine Schwangerschaft in der 9. SSW aus. Diese Darstellung widerspricht eindeutig den wissenschaftlichen Fakten der Embryologie. "
+title: "Diese Bilder, die vom abtreibungsbefürwortenden MYA Network stammen, behaupten fälschlicherweise, so sehe eine Schwangerschaft in der 9. SSW aus. Diese Darstellung widerspricht eindeutig den wissenschaftlichen Fakten der Embryologie. "
 categories: ["Menschenrechte", "Menschenwürde", "human rights"]
 tags: ["Menschenrechte", "Menschenwürde", "human rights"]
 date: 2025-01-11 20:09:31 +0100

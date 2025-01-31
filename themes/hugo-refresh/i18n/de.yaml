@@ -11,10 +11,12 @@
 - id: website
   translation: "Webseite"
 - id: credits
-  translation: "Impressum"
+  translation: "Danksagungen"
 - id: copyright
   translation: "Copyright"
 - id: contacts
   translation: "Kontakte"
+- id: imprint
+  translation: "Impressum"
 - id: homepage
   translation: "Homepage"

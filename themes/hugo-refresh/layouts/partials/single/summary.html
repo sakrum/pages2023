@@ -17,7 +17,7 @@
         {{- $image := "" -}}
         {{- $imgWidth := 0 -}}
         {{- $imgHeight := 0 -}}
-        {{- if .Params.summaryImage -}} 
+        {{- if and .Params.summaryImage (.Page.Resources.GetMatch .Params.summaryImage) -}} 
           {{- $image = .Page.Resources.GetMatch .Params.summaryImage -}}
           {{- $imgWidth = $image.Width -}}
           {{- $imgHeight = $image.Height -}}
@@ -27,25 +27,20 @@
           {{- $image = resources.Get .Site.Params.summary.defaultImage -}}
           {{- $imgWidth = $image.Width -}}
           {{- $imgHeight = $image.Height -}}
-          {{- .Scratch.Set "image" ($image.Resize "100x") -}}
+          {{- .Scratch.Set "image" ($image.Resize "600x") -}}
           {{- $image = .Scratch.Get "image" -}}
         {{- end }}
         <a href="{{- .Permalink | relURL -}}">
-        {{- if .Params.linkedsummaryImage -}}
-          {{- $linkedarticleimage := .Params.linkedsummaryImage -}}
-          <img src="/symbols/{{- $linkedarticleimage -}}" style="width: auto; margin:auto" alt="Symbolbild">
-        {{ else }}
-          {{ if .Page.Params.keepImageRatio }}
-            {{ $w := mul (div $imgWidth 3) 2 }} {{/* is-3by2*/}}
-            {{ $h := $imgHeight }} 
-            {{ if not (gt $w $h) }}
-              <img src="{{- $image.Permalink | relURL -}}" style="width: auto; margin:auto" alt="">
-            {{ else }}
-              <img src="{{- $image.Permalink | relURL -}}" style="height: auto; margin:auto" alt="">
-            {{ end }}
+        {{ if .Page.Params.keepImageRatio }}
+          {{ $w := mul (div $imgWidth 3) 2 }} {{/* is-3by2*/}}
+          {{ $h := $imgHeight }} 
+          {{ if not (gt $w $h) }}
+            <img src="{{- $image.Permalink | relURL -}}" style="width: auto; margin:auto" alt="">
           {{ else }}
-            <img src="{{- $image.Permalink | relURL -}}" alt="">
+            <img src="{{- $image.Permalink | relURL -}}" style="height: auto; margin:auto" alt="">
           {{ end }}
+        {{ else }}
+          <img src="{{- $image.Permalink | relURL -}}" alt="">
         {{ end }}
         </a>
       </figure>

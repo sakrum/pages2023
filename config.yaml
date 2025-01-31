@@ -3,6 +3,10 @@ languageCode: de-de
 title: sakrum.de
 theme: hugo-refresh
 # theme: ../..
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 #########################################
 ######## Uncomment this option ##########

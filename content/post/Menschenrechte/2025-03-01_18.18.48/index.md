@@ -1,0 +1,11 @@
+---
+title: "Der Leidensdruck, der durch angeborene Fehlbildungen entsteht, ist oft bei den Eltern größer als bei den Kindern selbst, was viele dazu veranlasst, sich für eine Abtreibung zu entscheiden. Viele dieser Entscheidungen werden jedoch aus Unkenntnis über Behandlungsmöglichkeiten und chirurgische Eingriffe getroffen. - Oberärztin Eva-Maria Baur  Es ist wichtig, die Menschen darauf aufmerksam zu machen, dass wir unsere Kinder nicht aufgrund von Perfektion selektieren und töten sollten. "
+categories: ["Menschenrechte", "Menschenwürde", "human rights"]
+tags: ["Menschenrechte", "Menschenwürde", "human rights"]
+date: 2025-03-01 18:18:48 +0100
+summary: "Der Leidensdruck, der durch angeborene Fehlbildungen entsteht, ist oft bei den Eltern größer als bei den Kindern selbst, was viele dazu veranlasst, sich für eine Abtreibung zu entscheiden. Viele dieser Entscheidungen werden jedoch aus Unkenntnis über Behandlungsmöglichkeiten und chirurgische Eingriffe getroffen. - Oberärztin Eva-Maria Baur  Es ist wichtig, die Menschen darauf aufmerksam zu machen, dass wir unsere Kinder nicht aufgrund von Perfektion selektieren und töten sollten. "
+summaryImage: "2025-03-01_18.18.48.jpg"
+keepImageRatio: true
+draft: false
+hideLastModified: false
+---[![Der Leidensdruck, der durch angeborene Fehlbildungen entsteht, ist oft bei den Eltern größer als bei den Kindern selbst, was viele dazu veranlasst, sich für eine Abtreibung zu entscheiden. Viele dieser Entscheidungen werden jedoch aus Unkenntnis über Behandlungsmöglichkeiten und chirurgische Eingriffe getroffen. - Oberärztin Eva-Maria Baur  Es ist wichtig, die Menschen darauf aufmerksam zu machen, dass wir unsere Kinder nicht aufgrund von Perfektion selektieren und töten sollten. ](2025-03-01_18.18.48.jpg "Der Leidensdruck, der durch angeborene Fehlbildungen entsteht, ist oft bei den Eltern größer als bei den Kindern selbst, was viele dazu veranlasst, sich für eine Abtreibung zu entscheiden. Viele dieser Entscheidungen werden jedoch aus Unkenntnis über Behandlungsmöglichkeiten und chirurgische Eingriffe getroffen. - Oberärztin Eva-Maria Baur  Es ist wichtig, die Menschen darauf aufmerksam zu machen, dass wir unsere Kinder nicht aufgrund von Perfektion selektieren und töten sollten. ")](https://www.sundaysforlife.org/de)

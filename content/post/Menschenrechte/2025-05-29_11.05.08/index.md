@@ -8,4 +8,6 @@ summaryImage: "2025-05-29_11.05.08.jpg"
 keepImageRatio: true
 draft: false
 hideLastModified: false
----[![Frohen Vatertag an die Männer, die Beschützer, Versorger, Vorbilder und Freunde sind. Ihr macht unser Leben jeden Tag besser!](2025-05-29_11.05.08.jpg "Frohen Vatertag an die Männer, die Beschützer, Versorger, Vorbilder und Freunde sind. Ihr macht unser Leben jeden Tag besser!")](https://www.sundaysforlife.org/de)
+---
+
+[![Frohen Vatertag an die Männer, die Beschützer, Versorger, Vorbilder und Freunde sind. Ihr macht unser Leben jeden Tag besser!](2025-05-29_11.05.08.jpg "Frohen Vatertag an die Männer, die Beschützer, Versorger, Vorbilder und Freunde sind. Ihr macht unser Leben jeden Tag besser!")](https://www.sundaysforlife.org/de)

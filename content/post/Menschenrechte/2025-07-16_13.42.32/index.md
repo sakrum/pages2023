@@ -1,0 +1,11 @@
+---
+title: "Eine visuelle Generation in einer visuellen Welt braucht visuelle Beweise, die sich über das Geschwätz erheben und den Lärm des modernen Lebens durchbrechen, um eine starke Botschaft zu vermitteln: Abtreibung ist ein Akt der Gewalt, der ein unschuldiges menschliches Wesen tötet.  Ein Zitat aus dem Buch Sehen heißt Verstehen von Jonathon Van Maren.  Bestell dir jetzt dein kostenloses Buch – und erfahre, wie auch wir zu einer Gesellschaft werden können, die das ungeborene Leben schützt. sfl.onl/sehen"
+categories: ["Menschenrechte", "Menschenwürde", "human rights"]
+tags: ["Menschenrechte", "Menschenwürde", "human rights"]
+date: 2025-07-16 13:42:32 +0100
+summary: "Eine visuelle Generation in einer visuellen Welt braucht visuelle Beweise, die sich über das Geschwätz erheben und den Lärm des modernen Lebens durchbrechen, um eine starke Botschaft zu vermitteln: Abtreibung ist ein Akt der Gewalt, der ein unschuldiges menschliches Wesen tötet.  Ein Zitat aus dem Buch Sehen heißt Verstehen von Jonathon Van Maren.  Bestell dir jetzt dein kostenloses Buch – und erfahre, wie auch wir zu einer Gesellschaft werden können, die das ungeborene Leben schützt. sfl.onl/sehen"
+summaryImage: "2025-07-16_13.42.32.jpg"
+keepImageRatio: true
+draft: false
+hideLastModified: false
+---[![Eine visuelle Generation in einer visuellen Welt braucht visuelle Beweise, die sich über das Geschwätz erheben und den Lärm des modernen Lebens durchbrechen, um eine starke Botschaft zu vermitteln: Abtreibung ist ein Akt der Gewalt, der ein unschuldiges menschliches Wesen tötet.  Ein Zitat aus dem Buch Sehen heißt Verstehen von Jonathon Van Maren.  Bestell dir jetzt dein kostenloses Buch – und erfahre, wie auch wir zu einer Gesellschaft werden können, die das ungeborene Leben schützt. sfl.onl/sehen](2025-07-16_13.42.32.jpg "Eine visuelle Generation in einer visuellen Welt braucht visuelle Beweise, die sich über das Geschwätz erheben und den Lärm des modernen Lebens durchbrechen, um eine starke Botschaft zu vermitteln: Abtreibung ist ein Akt der Gewalt, der ein unschuldiges menschliches Wesen tötet.  Ein Zitat aus dem Buch Sehen heißt Verstehen von Jonathon Van Maren.  Bestell dir jetzt dein kostenloses Buch – und erfahre, wie auch wir zu einer Gesellschaft werden können, die das ungeborene Leben schützt. sfl.onl/sehen")](https://www.sundaysforlife.org/de)

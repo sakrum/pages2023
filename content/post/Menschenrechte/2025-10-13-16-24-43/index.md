@@ -1,0 +1,11 @@
+---
+title: "Wenn wir als Gesellschaft nicht einmal das grundlegendste Recht, das Recht auf Leben, schützen, dann verlieren wir die moralische Grundlage für alle anderen Rechte. Wir tragen die Verantwortung, die Schwächsten unter uns zu schützen. Unsere Aufgabe ist es, Frauen in schwierigen Situationen beizustehen – nicht, sie in eine Entscheidung zu drängen, die am Ende zwei Opfer hinterlässt: eine verlorene Seele und eine verletzte."
+categories: ["Menschenrechte", "Menschenwürde", "human rights"]
+tags: ["Menschenrechte", "Menschenwürde", "human rights"]
+date: 2025-10-13 16:24:43 +0100
+summary: "Wenn wir als Gesellschaft nicht einmal das grundlegendste Recht, das Recht auf Leben, schützen, dann verlieren wir die moralische Grundlage für alle anderen Rechte. Wir tragen die Verantwortung, die Schwächsten unter uns zu schützen. Unsere Aufgabe ist es, Frauen in schwierigen Situationen beizustehen – nicht, sie in eine Entscheidung zu drängen, die am Ende zwei Opfer hinterlässt: eine verlorene Seele und eine verletzte."
+summaryImage: "2025-10-13-16-24-43.jpg"
+keepImageRatio: true
+draft: false
+hideLastModified: false
+---[![Wenn wir als Gesellschaft nicht einmal das grundlegendste Recht, das Recht auf Leben, schützen, dann verlieren wir die moralische Grundlage für alle anderen Rechte. Wir tragen die Verantwortung, die Schwächsten unter uns zu schützen. Unsere Aufgabe ist es, Frauen in schwierigen Situationen beizustehen – nicht, sie in eine Entscheidung zu drängen, die am Ende zwei Opfer hinterlässt: eine verlorene Seele und eine verletzte.](2025-10-13-16-24-43.jpg "Wenn wir als Gesellschaft nicht einmal das grundlegendste Recht, das Recht auf Leben, schützen, dann verlieren wir die moralische Grundlage für alle anderen Rechte. Wir tragen die Verantwortung, die Schwächsten unter uns zu schützen. Unsere Aufgabe ist es, Frauen in schwierigen Situationen beizustehen – nicht, sie in eine Entscheidung zu drängen, die am Ende zwei Opfer hinterlässt: eine verlorene Seele und eine verletzte.")](https://www.sundaysforlife.org/de)

@@ -149,7 +149,7 @@
             {{ end }}
             {{ if isset .Site.Params.footer.bluesky "link" }}
             <li>
-              <a href="https://twitter.com/{{ .Site.Params.footer.bluesky.link }}" target="_blank">
+              <a href="{{ .Site.Params.footer.bluesky.link }}" target="_blank">
                 <span class="icon"><i class="fa-brands fa-bluesky"></i></span>
                 {{ if isset .Site.Params.footer.bluesky "title" }}
                   {{ .Site.Params.footer.bluesky.title }}

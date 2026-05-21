@@ -23,7 +23,10 @@ showInMenu: true
 {{< tablerow >}}
 {{< tabledata >}}
 {{< newLine >}}
+{{< auskommentieren >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="blogger" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://blogger.sakrum.de" >}}Blogger{{< /link >}}
+{{< /auskommentieren >}}
+{{< textsize size="+3" >}}{{< svgicon symbol="bluesky" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://bsky.app/profile/sakrum.de" >}}Bluesky{{< /link >}}
 {{< newLine >}}
 {{< /tabledata >}}
 {{< tabledata >}}

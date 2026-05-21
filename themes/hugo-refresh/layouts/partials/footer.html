@@ -147,6 +147,18 @@
               </a>
             </li>
             {{ end }}
+            {{ if isset .Site.Params.footer.bluesky "link" }}
+            <li>
+              <a href="https://twitter.com/{{ .Site.Params.footer.bluesky.link }}" target="_blank">
+                <span class="icon"><i class="fa-brands fa-bluesky"></i></span>
+                {{ if isset .Site.Params.footer.bluesky "title" }}
+                  {{ .Site.Params.footer.bluesky.title }}
+                {{ else }}
+                  Bluesky
+                {{ end }}
+              </a>
+            </li>
+            {{ end }}
             {{ if isset .Site.Params.footer.linkedin "link" }}
             <li>
               <a href="https://www.linkedin.com/{{ .Site.Params.footer.linkedin.link }}" target="_blank">

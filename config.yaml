@@ -148,7 +148,7 @@ params:
     #   title: XMPP / Jabber
     # option to specify your contact xmpp in the footer
     gnupg: 
-      key: 0bfa9786
+      key: markus@sakrum.de
       title: (open)PGP / GnuPG
     # option to specify your linkedin profile in the footer
     # linkedin: 

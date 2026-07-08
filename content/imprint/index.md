@@ -13,7 +13,9 @@ showInMenu: true
 {{< auskommentieren >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="matrix" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< jsmatrixto >}}{{< fontawesome symbol="fa fa-at" >}}&nbsp;markus&nbsp;{{< fontawesome symbol="fa fa-circle-question" >}}&nbsp;sakrum.de{{< /jsmatrixto >}}{{< newLine >}}
 {{< /auskommentieren >}}
+{{< auskommentieren >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="deltachat" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< jsmailto >}}markus{{< fontawesome symbol="fa fa-at" >}}&nbsp;sakrum.de{{< /jsmailto >}}{{< newLine >}}
+{{< /auskommentieren >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="conversations" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://conversations.im/i/markus@sakrum.de" >}}conversations.im{{< /link >}}{{< newLine >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="matrix" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://matrix.to/#/@markus:sakrum.de" >}}matrix.to{{< /link >}}{{< newLine >}}
 {{< textsize size="+3" >}}{{< svgicon symbol="threema" >}}&nbsp;{{< /svgicon >}}{{< /textsize >}}{{< link "https://threema.id/AKR27HX2" >}}threema.id{{< /link >}}{{< newLine >}}
